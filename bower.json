@@ -1,0 +1,20 @@
+{
+  "name": "ludum-dare-30",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fakeyou/ludum-dare-30",
+  "authors": [
+    "Andre Nanninga <ag.nanninga@gmail.com>"
+  ],
+  "description": "A game made for Ludum Dare 30",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi": "~1.6.1"
+  }
+}

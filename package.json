@@ -1,0 +1,21 @@
+{
+  "name": "ludum-dare-30",
+  "version": "0.0.0",
+  "description": "A game made for Ludum Dare 30",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fakeyou/ludum-dare-30"
+  },
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/fakeyou/ludum-dare-30/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
